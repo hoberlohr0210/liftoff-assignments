@@ -1,3 +1,5 @@
+Looks good. If you can enable the Issue tab I will give more detailed feedback. - David Moeller (TF)
+
 # Project Outline
 For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
 
