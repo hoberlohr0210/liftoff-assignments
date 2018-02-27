@@ -7,10 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/hoberlohr0210)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+[LinkedIn](https://www.linkedin.com/in/hannah-oberlohr-717643158)
+
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+My resume is in the C1 folder
